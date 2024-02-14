@@ -1,0 +1,3 @@
+Personally, I would suggest to knowing one or two programming langugages 
+before start in DevOps learning process
+Such as Java, Python, Golang are so good examples to start with
