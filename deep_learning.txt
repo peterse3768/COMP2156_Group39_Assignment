@@ -1,0 +1,13 @@
+with numpy
+1. x is the input of the function, y is the output of the function
+2.axis = 0 as rows(from top to bottom), axis = 1 as columns(from left to right)
+with type signatures
+
+-------
+
+Derivatives
+1. the rate of change of the output of the function with respect to its input
+d f =          f a + Δ − f a − Δ
+du a  lim Δ 0        2 × Δ
+
+until page 7
