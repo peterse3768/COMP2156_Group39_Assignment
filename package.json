@@ -1,10 +1,14 @@
 {
   "name": "comp2156_group39_assignment",
   "version": "1.0.0",
-  "description": "Group member info:\r Olivia Peters\r Ching-Hsuan Chiu\r Cristian Sousa\r Akash Dipakbhai Patel",
+  "description": "Comp2156 Group 39 Assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterse3768/comp2156_group39_assignment.git"
   },
   "keywords": [],
   "author": "",
