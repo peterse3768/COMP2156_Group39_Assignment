@@ -11,7 +11,7 @@ foundations of a proficient DevOps engineer. Throughout the course, students
 will learn about:
 	- Github, Git, and repository management
 	- data types and markup languages (XML, JSON, YML, YAML, YANG, etc)
-	- Continuous integration/development (CI/CD); Travis, etc.
+	- Continuous integration/delivery/deployment (CI/CD); Travis, etc.
 	- collaboration practices for efficient version control
 	- database and cloud computing
 	- enforcnig code quality and standards through DevOps pipelines
