@@ -1,0 +1,23 @@
+What is a DevOps engineer?
+
+Simply put, it's a person specializing in the methodology of software
+development and IT, working to automate and make more eficient the
+development and operations of projects. If you look further however, the
+set of skills a DevOps engineer must posess are vast and constantly changing
+as the fields grow and evolve.
+
+The course we're taking, COMP2156, intends to equip students with the
+foundations of a proficient DevOps engineer. Throughout the course, students
+will learn about:
+	- Github, Git, and repository management
+	- data types and markup languages (XML, JSON, YML, YAML, YANG, etc)
+	- Continuous integration/development (CI/CD); Travis, etc.
+	- collaboration practices for efficient version control
+	- database and cloud computing
+	- enforcnig code quality and standards through DevOps pipelines
+	- security practices in software development cycles
+and much more!
+
+By the end of the course, students should have a foundational knowledge of
+DevOps practices and workplaces. I hope to continue to hone the skills I'm
+learning even after my time at George Brown College!
