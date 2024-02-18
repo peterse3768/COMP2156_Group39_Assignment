@@ -10,4 +10,13 @@ Derivatives
 d f =          f a + Δ − f a − Δ
 du a  lim Δ 0        2 × Δ
 
-until page 7
+
+-------
+
+Nested function --> Composite function
+
+nested function:
+f2(f1(x)) = y
+both need to be differentiable
+
+until page 
